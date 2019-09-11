@@ -1,7 +1,7 @@
 ## 设计模式实践
 ### 设计原则
 
-[6大设计原则总结]: https://www.cnblogs.com/DI-DIAO/p/8613357.html
+[6大设计原则总结](https://www.cnblogs.com/DI-DIAO/p/8613357.html)
 
 - **单一职责原则 Single Responsiblity Principle**
 
